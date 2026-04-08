@@ -1,4 +1,3 @@
-````markdown
 # Oi, eu sou o Andrew 👋
 
 🧑‍💻 **Desenvolvedor Web Fullstack** com foco em backend  
@@ -12,20 +11,10 @@ Hoje estou cursando **Engenharia de Software na UniAteneu** e já tive a oportun
 
 ## 🌐 Onde me encontrar
 
-<p align="left">
-  <a href="https://github.com/andrewklayverr">
-    <img src="https://img.shields.io/badge/GitHub-andrewklayverr-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/andrewklayver">
-    <img src="https://img.shields.io/badge/LinkedIn-andrewklayver-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://portfolio-dev-liart.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfólio-Ver%20projetos-000000?style=for-the-badge&logo=vercel" />
-  </a>
-  <a href="mailto:andrewklayver87@gmail.com">
-    <img src="https://img.shields.io/badge/Email-andrewklayver87@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-andrewklayverr-181717?style=for-the-badge&logo=github)](https://github.com/andrewklayverr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-andrewklayver-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrewklayver)
+[![Portfólio](https://img.shields.io/badge/Portfólio-Ver%20projetos-000000?style=for-the-badge&logo=vercel)](https://portfolio-dev-liart.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-andrewklayver87@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrewklayver87@gmail.com)
 
 ---
 
@@ -61,10 +50,8 @@ Uma aplicação fullstack de gerenciamento de treinos. Autenticação com JWT, A
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=andrewklayverr&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewklayverr&layout=compact&theme=tokyonight" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrewklayverr&show_icons=true&theme=tokyonight&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewklayverr&layout=compact&theme=tokyonight)
 
 ---
 
@@ -77,6 +64,3 @@ Se você tiver um projeto legal ou uma oportunidade de estágio/júnior, fala co
 ---
 
 > *"Cada linha de código é uma chance de aprender algo novo."*
-````
-
-Adicionado! O badge do LinkedIn ficou logo abaixo do GitHub, na segunda posição. É só copiar e colar. 🚀
