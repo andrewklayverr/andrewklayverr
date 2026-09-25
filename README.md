@@ -51,6 +51,16 @@ Mais do que uma tela de cardápio, a aplicação foi pensada como uma ferramenta
 
 Esse é o projeto que melhor representa meu momento atual: construir uma aplicação fullstack completa, resolver necessidades de um negócio real e colocar o produto para funcionar fora do ambiente de desenvolvimento.
 
+## Por trás da entrega
+
+Em vez de uma estatística genérica, este é o fluxo que melhor representa meu trabalho: transformar uma necessidade real em um produto publicado e usado no dia a dia.
+
+<div align="center">
+
+<img src="./assets/crazychicken-production.svg" alt="Painel visual do processo de desenvolvimento do Crazy Chicken, do planejamento à produção" width="760" />
+
+</div>
+
 ## Stack real
 
 As ferramentas que fazem parte do meu caminho hoje:
@@ -118,25 +128,6 @@ Meu portfólio publicado, construído com **React**, **Vite** e **Bootstrap**.
 ### [Sistema de Controle de Produtos](https://github.com/andrewklayverr/Sistema-de-Controle-de-Produtos)
 
 Projeto frontend com **React**, formulários, rotas, **Axios**, validações com **Yup** e operações de CRUD.
-
-## Commits em modo jogo
-
-Meu histórico de contribuições ganhou uma camada extra: um jogo de cobrinha percorre o mapa dos commits. A animação é atualizada automaticamente pelo GitHub Actions.
-
-<div align="center">
-
-<img src="./assets/github-contribution-grid-snake.svg" alt="Jogo de cobrinha formado pelo histórico de contribuições" />
-
-</div>
-
-## GitHub em números
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=andrewklayverr&show_icons=true&hide_border=true&theme=tokyonight&locale=pt-br" alt="Estatísticas do GitHub do Andrew" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewklayverr&layout=compact&hide_border=true&theme=tokyonight&locale=pt-br" alt="Linguagens mais usadas pelo Andrew" />
-
-</div>
 
 ## Próximo nível
 
