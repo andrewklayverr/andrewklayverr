@@ -1,0 +1,56 @@
+<svg width="760" height="300" viewBox="0 0 760 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Perfil do Andrew em estilo editor de código</title>
+  <desc id="desc">Um cartão escuro com código mostrando o perfil profissional, localização, estudos e tecnologias do Andrew.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="760" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1020"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="90" y1="0" x2="650" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="12" stdDeviation="18" flood-color="#020617" flood-opacity="0.45"/>
+    </filter>
+  </defs>
+
+  <rect x="1" y="1" width="758" height="298" rx="18" fill="url(#bg)" stroke="#263248" stroke-width="2" filter="url(#shadow)"/>
+  <rect x="1" y="1" width="758" height="46" rx="18" fill="#151E31"/>
+  <path d="M1 29H759V47H1V29Z" fill="#151E31"/>
+  <circle cx="27" cy="24" r="6" fill="#FB7185"/>
+  <circle cx="48" cy="24" r="6" fill="#FBBF24"/>
+  <circle cx="69" cy="24" r="6" fill="#34D399"/>
+  <text x="105" y="29" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">andrew-profile.ts</text>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">
+    <g fill="#475569" text-anchor="end">
+      <text x="42" y="73">01</text><text x="42" y="94">02</text><text x="42" y="115">03</text>
+      <text x="42" y="136">04</text><text x="42" y="157">05</text><text x="42" y="178">06</text>
+      <text x="42" y="199">07</text><text x="42" y="220">08</text><text x="42" y="241">09</text>
+      <text x="42" y="262">10</text><text x="42" y="283">11</text>
+    </g>
+
+    <text x="64" y="73" fill="#C084FC">const</text>
+    <text x="112" y="73" fill="#67E8F9">andrew</text>
+    <text x="172" y="73" fill="#CBD5E1">=</text>
+    <text x="188" y="73" fill="#FDE68A">{`{`}</text>
+
+    <text x="82" y="94" fill="#94A3B8">role:</text><text x="137" y="94" fill="#86EFAC">"Fullstack Web Developer"</text><text x="345" y="94" fill="#CBD5E1">,</text>
+    <text x="82" y="115" fill="#94A3B8">focus:</text><text x="143" y="115" fill="#86EFAC">"backend"</text><text x="241" y="115" fill="#CBD5E1">,</text>
+    <text x="82" y="136" fill="#94A3B8">location:</text><text x="166" y="136" fill="#86EFAC">"Fortaleza, CE"</text><text x="314" y="136" fill="#CBD5E1">,</text>
+    <text x="82" y="157" fill="#94A3B8">studying:</text><text x="165" y="157" fill="#86EFAC">"Engenharia de Software"</text><text x="392" y="157" fill="#CBD5E1">,</text>
+    <text x="82" y="178" fill="#94A3B8">since:</text><text x="139" y="178" fill="#FDE68A">2022</text><text x="184" y="178" fill="#CBD5E1">,</text>
+    <text x="82" y="199" fill="#94A3B8">mainProject:</text><text x="194" y="199" fill="#86EFAC">"Crazy Chicken"</text><text x="351" y="199" fill="#CBD5E1">,</text>
+    <text x="82" y="220" fill="#94A3B8">delivery:</text><text x="165" y="220" fill="#86EFAC">"zero → production"</text><text x="355" y="220" fill="#CBD5E1">,</text>
+    <text x="82" y="241" fill="#94A3B8">stack:</text><text x="139" y="241" fill="#FDE68A">[</text><text x="150" y="241" fill="#86EFAC">"React"</text><text x="222" y="241" fill="#CBD5E1">,</text><text x="233" y="241" fill="#86EFAC">"Node.js"</text><text x="322" y="241" fill="#CBD5E1">,</text><text x="333" y="241" fill="#86EFAC">"MongoDB"</text><text x="435" y="241" fill="#FDE68A">]</text><text x="449" y="241" fill="#CBD5E1">,</text>
+    <text x="82" y="262" fill="#94A3B8">building:</text><text x="165" y="262" fill="#86EFAC">"real product for a real client"</text><text x="485" y="262" fill="#CBD5E1">,</text>
+    <text x="64" y="283" fill="#FDE68A">{`}`}</text>
+  </g>
+
+  <rect x="590" y="80" width="128" height="128" rx="64" fill="#111827" stroke="url(#accent)" stroke-width="2"/>
+  <circle cx="654" cy="132" r="28" fill="#1E293B"/>
+  <path d="M630 128L644 115L658 128L672 115L686 128" stroke="#67E8F9" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M637 149C646 157 662 157 671 149" stroke="#A78BFA" stroke-width="5" stroke-linecap="round"/>
+  <text x="654" y="234" fill="#CBD5E1" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" text-anchor="middle">keep building</text>
+</svg>

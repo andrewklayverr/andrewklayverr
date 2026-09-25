@@ -1,0 +1,16 @@
+<svg width="760" height="180" viewBox="0 0 760 180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Jogo de contribuições</title>
+  <desc id="desc">Prévia do jogo de cobrinha que será preenchido pelo GitHub Actions com o histórico real de commits.</desc>
+  <rect width="760" height="180" rx="16" fill="#0D1117"/>
+  <text x="380" y="38" text-anchor="middle" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">commit game // aguardando a primeira atualização</text>
+  <g opacity="0.8">
+    <rect x="90" y="70" width="14" height="14" rx="3" fill="#161B22"/><rect x="112" y="70" width="14" height="14" rx="3" fill="#0E4429"/><rect x="134" y="70" width="14" height="14" rx="3" fill="#006D32"/><rect x="156" y="70" width="14" height="14" rx="3" fill="#26A641"/><rect x="178" y="70" width="14" height="14" rx="3" fill="#39D353"/>
+    <rect x="90" y="92" width="14" height="14" rx="3" fill="#0E4429"/><rect x="112" y="92" width="14" height="14" rx="3" fill="#006D32"/><rect x="134" y="92" width="14" height="14" rx="3" fill="#26A641"/><rect x="156" y="92" width="14" height="14" rx="3" fill="#39D353"/><rect x="178" y="92" width="14" height="14" rx="3" fill="#0E4429"/>
+    <rect x="90" y="114" width="14" height="14" rx="3" fill="#006D32"/><rect x="112" y="114" width="14" height="14" rx="3" fill="#26A641"/><rect x="134" y="114" width="14" height="14" rx="3" fill="#39D353"/><rect x="156" y="114" width="14" height="14" rx="3" fill="#0E4429"/><rect x="178" y="114" width="14" height="14" rx="3" fill="#006D32"/>
+  </g>
+  <path d="M230 99H390C410 99 410 77 430 77H544" stroke="#58A6FF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="230" cy="99" r="11" fill="#58A6FF"/>
+  <circle cx="544" cy="77" r="11" fill="#A371F7"/>
+  <path d="M556 77L574 65V89L556 77Z" fill="#A371F7"/>
+  <text x="380" y="154" text-anchor="middle" fill="#58A6FF" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">run workflow → snake.exe</text>
+</svg>
