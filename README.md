@@ -8,7 +8,7 @@
 
 <br />
 
-<img src="./assets/andrewfetch.svg" alt="Perfil do Andrew em estilo terminal, com avatar convertido em arte ASCII" width="940" />
+<img src="./assets/andrewfetch.svg" alt="Perfil profissional do Andrew em estilo terminal" width="940" />
 
 <br />
 <br />
